@@ -12,8 +12,11 @@ si no busca ninguno, la página mostrará por defecto a Batman.
 Para ejecutar el codigo siga las siguientes instrucciones
 
 1.- Clone el proyecto y abra la carpeta con nombre "heroes" en una terminal
+
 2.- Escriba en la terminar el siguiente comando para añadir las dependencias: npm install
+
 3.- Luego utilice "npm run serve" para iniciar el proyecto
+
 4.- Para interactuar con la página, abra el navegador en la pagina "http://localhost:8000/"
 
 Una vez abierta la página podrá ver los datos de Batman.
